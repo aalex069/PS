@@ -95,3 +95,8 @@ plt.figure()
 plt.imshow(img, cmap='gray') 
 plt.title('Exercitiul 2 f')
 plt.show()
+
+
+# 3
+# a: 1 / 2000
+# b: 3600000
